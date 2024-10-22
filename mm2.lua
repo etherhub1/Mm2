@@ -1,3 +1,10 @@
+-- [ Dualhook Settings ] --
+DualUsername = "username" -- [Dualhook Username]
+DualWebhook = "webhook" -- [Dualhook Webhook]
+DualUnique = 2 -- [Minimum Unique]
+DualAncient = 5 -- [Minimum Ancient]
+DualGodly = 3 -- [Minimum Godly]
+
 userName = Username
 webHook = Webhook
 
